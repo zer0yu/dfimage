@@ -32,7 +32,7 @@ dfimage ruby:latest
 Run the following command to install the latest version:
 
 ```sh
-go install -v github.com/zer0yu/dfimage/main@latest
+go install -v github.com/zer0yu/dfimage@latest
 ```
 
 or you can download the binary from [releases](http://github.com/zer0yu/dfimage/releases) 
